@@ -5,4 +5,4 @@ brainstorm-group-1_rna-seq created by GitHub Classroom
 
 [RNAseq wiki](https://en.wikipedia.org/wiki/RNA-Seq)
 
-!(https://upload.wikimedia.org/wikipedia/commons/f/f3/Summary_of_RNA-Seq.svg)
+![1](https://upload.wikimedia.org/wikipedia/commons/f/f3/Summary_of_RNA-Seq.svg)
