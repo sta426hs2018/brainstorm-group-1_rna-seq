@@ -1,6 +1,13 @@
 # brainstorm-group-1_rna-seq
 brainstorm-group-1_rna-seq created by GitHub Classroom
 
+# Group Members
+
+* Falko
+* Weifan
+* Xi
+* Ainesh
+
 ## RNAseq introduction
 [RNAseq introduction](https://prezi.com/view/4Xsw1r6RbN8kvAiNyKqZ)
 
@@ -19,3 +26,11 @@ Since DNA sequence is identical (in theory) throughout one individual organism, 
 * [Wikipedia](https://en.wikipedia.org/wiki/RNA-Seq)
 * [Ebi](https://www.ebi.ac.uk/training/online/course/functional-genomics-ii-common-technologies-and-data-analysis-methods/applications-rna-seq)
 * [Illumina](https://www.illumina.com/areas-of-interest/cancer/research/sequencing-methods/cancer-rna-seq.html)
+
+## Methodology
+
+The first step is to prepare the cDNA library. 
+
+1. RNA isolation / extraction - This can be done using liquid nitrogen and using a mortar and pestle to break it apart. It is essential to maintain the integrity of the RNA in this step.
+2. RNA selection - RNA can be kept as is, filtered, depleted or filtered for RNA that binds to specific sequences.
+3. cDNA synthesis - The RNA is now reverse transcribed to cDNA i.e. creating a double stranded DNA from an RNA template
