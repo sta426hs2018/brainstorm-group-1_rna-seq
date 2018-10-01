@@ -5,7 +5,7 @@ brainstorm-group-1_rna-seq created by GitHub Classroom
 [RNAseq introduction](https://prezi.com/view/4Xsw1r6RbN8kvAiNyKqZ)
 
 ## Why do we sequence RNA? 
-Since DNA sequence is identical (in theory) throughout one individual organism, what makes the various tissue/cell types is the usage of the diffrent DNA fragment (ie. genes).The first step of using the DNA is transcription that generates RNA. The transcriptome conveys biological information that reflects the function of a cell/tissue. Thus, profiling RNA could help us understand how a cell/tissue work and probe the state of a cell/tissue.
+Since DNA sequence is identical (in theory) throughout one individual organism, what makes the various tissue/cell types is the usage of the DNA. The first step of using the DNA is transcription that generates RNA. The transcriptome conveys biological information that reflects the function of a cell/tissue. Thus, profiling RNA could help us understand how a cell/tissue work and probe the state of a cell/tissue.
 ## Applications
 
 #### General info
