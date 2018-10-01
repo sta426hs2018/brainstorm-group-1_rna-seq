@@ -19,3 +19,6 @@ Since DNA sequence is identical (in theory) throughout one individual organism, 
 * [Wikipedia](https://en.wikipedia.org/wiki/RNA-Seq)
 * [Ebi](https://www.ebi.ac.uk/training/online/course/functional-genomics-ii-common-technologies-and-data-analysis-methods/applications-rna-seq)
 * [Illumina](https://www.illumina.com/areas-of-interest/cancer/research/sequencing-methods/cancer-rna-seq.html)
+
+#### Reference
+* [RNA-Seq: a revolutionary tool for transcriptomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949280/)
