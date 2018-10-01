@@ -15,6 +15,11 @@ GitHub name in (brackets)
 ## Why do we sequence RNA? 
 Since DNA sequence is identical (in theory) throughout one individual organism, what makes the various tissue/cell types is the usage of the DNA. The first step of using the DNA is transcription that generates RNA. The transcriptome conveys biological information that reflects the function of a cell/tissue. Thus, profiling RNA could help us understand how a cell/tissue work and probe the state of a cell/tissue.
 ## Applications
+(1) Differentiation gene expression analysis
+(2) Explore novel RNA expression, eg. non-coding RNA, micro RNA, piwi RNA etc.
+(3) Explore the RNA post-transcription processing, eg. splicing, etc.
+## Statistics
+Negative binominal GLM, Cox-Reid Approximate Conditional Variance, 
 
 #### General info
 * RNA splicing patterns: How are genes actually transcribed and subsequently translated into proteins?
