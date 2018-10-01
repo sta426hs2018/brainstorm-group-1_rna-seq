@@ -2,11 +2,12 @@
 brainstorm-group-1_rna-seq created by GitHub Classroom
 
 # Group Members
+GitHub name in (brackets)
 
-* Falko
-* Wenfei
+* Falko Noe (CodingKaiser)
+* Weifan Sun (Wenfei-Sun)
 * Xi
-* Ainesh
+* Ainesh Sewak (asewak)
 
 ## RNAseq introduction
 [RNAseq introduction](https://prezi.com/view/4Xsw1r6RbN8kvAiNyKqZ)
@@ -34,6 +35,7 @@ Negative binominal GLM, Cox-Reid Approximate Conditional Variance,
 
 ## Methodology
 
+#### The cDNA Library
 The first step is to prepare the _cDNA library_ (using Illumina protocol):
 
 1. RNA isolation / extraction from tissue of interest
@@ -44,6 +46,7 @@ The first step is to prepare the _cDNA library_ (using Illumina protocol):
 6. Quality control! - verify library concentration and library fragment lengths.
 
 
+#### Sequencing
 The second step is to _sequence_:
 
 * Fragments laid out on a grid vertically
@@ -66,7 +69,7 @@ Steps to sequencing are:
 In **bulk RNA-seq** a sample (6 million cells) might have 3 normal and 3 mutated samples.
 In **single-cell RNA-seq** it treats each cell as an individual sample, so a lot of samples can be generated.
 
-
+#### Data Analysis
 The last step is _data analysis_:
 
 * We must normalize the data first since:
