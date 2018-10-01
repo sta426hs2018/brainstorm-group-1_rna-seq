@@ -1,7 +1,7 @@
 # brainstorm-group-1_rna-seq
 brainstorm-group-1_rna-seq created by GitHub Classroom
 
-# RNAseq introduction
+## RNAseq introduction
 [RNAseq introduction](https://prezi.com/view/4Xsw1r6RbN8kvAiNyKqZ)
 
 ## Why do we sequence RNA? 
