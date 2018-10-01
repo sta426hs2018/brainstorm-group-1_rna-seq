@@ -4,7 +4,7 @@ brainstorm-group-1_rna-seq created by GitHub Classroom
 # Group Members
 
 * Falko
-* Weifan
+* Weifei
 * Xi
 * Ainesh
 
