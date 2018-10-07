@@ -81,8 +81,5 @@ The last step is _data analysis_:
 3. Identify differentially expressed genes between the normal and mutated samples
 4. Conclusion: Either see if the experiment validated your hypotheses or see if certain pathways are enriched in either normal or mutatant gene sets.
 
-
-
-
-
-
+#### Reference
+* [RNA-Seq: a revolutionary tool for transcriptomics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949280/)
